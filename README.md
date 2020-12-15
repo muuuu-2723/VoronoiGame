@@ -32,4 +32,4 @@ https://github.com/a14ehsr/VoronoiGame/
 - /sample_programs/java/P_Sample.java
 - /sample_programs/python/P_sample.py  
 <br>
-その後, 元URLの1.4以降を再度実行してください.  
+その後, 上記URLの1.4以降を再度実行してください.  
