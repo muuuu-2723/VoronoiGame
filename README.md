@@ -19,3 +19,17 @@ https://github.com/a14ehsr/VoronoiGame/
 1～10の一様乱数で重みを定義.　　
 <br>
 ## 変更方法
+以下のファイルをダウンロードして更新してください.  
+- /java/src/ac/a14ehsr/platform/VoronoiGame.java
+- /java/src/ac/a14ehsr/platform/graph/GridGraph.java
+- /java/src/ac/a14ehsr/sample_ai/P_4Neighbours.java
+- /java/src/ac/a14ehsr/sample_ai/P_8Neighbours.java
+- /java/src/ac/a14ehsr/sample_ai/P_Chaise.java
+- /java/src/ac/a14ehsr/sample_ai/P_Copy.java
+- /java/src/ac/a14ehsr/sample_ai/P_Max.java
+- /java/src/ac/a14ehsr/sample_ai/P_Random.java
+- /sample_programs/cpp/P_sample.cpp
+- /sample_programs/java/P_Sample.java
+- /sample_programs/python/P_sample.py  
+<br>
+その後, 元URLの1.4以降を再度実行してください.  
